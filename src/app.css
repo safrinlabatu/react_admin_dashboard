@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    margin-top: 10px;
+}
+
+.sidebarWrapper {
+    padding: 20px;
+    color: #555;
+}
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
